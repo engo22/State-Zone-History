@@ -1,3 +1,7 @@
+<head>
+  <meta name="google-site-verification" content="MEAt_El6ywe4ayLHRkx1eB-nshbNhGbAcKb8I9pPbl0" />
+</head>
+
 # 📜 История State Zone (СЗ)
 
 ## 2022 Год
