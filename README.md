@@ -1,4 +1,4 @@
-<img width="629" height="400" alt="image" src="https://github.com/user-attachments/assets/b558faec-1056-4317-8934-ec989c085e21" /># 📜 История State Zone (СЗ)
+# 📜 История State Zone (СЗ)
 
 ## 2022 Год
 
